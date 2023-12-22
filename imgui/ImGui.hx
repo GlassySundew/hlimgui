@@ -1631,6 +1631,7 @@ class ImGui
 
 	// Cursor / Layout
 	public static function separator() {}
+	public static function separatorText(text:String) {}
 	public static function sameLine(offset_from_start_x : Single = 0.0, spacing : Single = -1.0) {}
 	public static function newLine() {}
 	public static function spacing() {}

@@ -5,6 +5,11 @@ HL_PRIM void HL_NAME(separator)()
 	ImGui::Separator();
 }
 
+HL_PRIM void HL_NAME(separator_text)(vstring* str_id)
+{
+	ImGui::SeparatorText(convertString(str_id));
+}
+
 HL_PRIM void HL_NAME(same_line)(float* offset_from_start_x, float* spacing)
 {
 	ImGui::SameLine(offset_from_start_x != nullptr ? *offset_from_start_x : 0.0f, spacing != nullptr ? *spacing : -1.0f);
@@ -116,6 +121,7 @@ HL_PRIM float HL_NAME(get_frame_height_with_spacing)()
 }
 
 DEFINE_PRIM(_VOID, separator, _NO_ARG);
+DEFINE_PRIM(_VOID, separator_text, _STRING);
 DEFINE_PRIM(_VOID, same_line, _REF(_F32) _REF(_F32));
 DEFINE_PRIM(_VOID, new_line, _NO_ARG);
 DEFINE_PRIM(_VOID, spacing, _NO_ARG);
