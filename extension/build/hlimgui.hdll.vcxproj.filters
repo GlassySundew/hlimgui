@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\clipping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\columns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\context.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\cursor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\docking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\dragdrop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\drawlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\focus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\font.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\hlimgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\id.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\io.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\logging.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\parameters_stack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\popup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\style.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\tab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\table.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\tooltip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\utilities_clipboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\utilities_color.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\utilities_ini.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\utilities_keyboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\utilities_misc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\utilities_mouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\utilities_text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\viewport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_combo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_drag.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_listbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_plot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_selectable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\widgets_value.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\windows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\windows_color.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\windows_region.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\windows_scrolling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\windows_utilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\addons\node_editor\node_editor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\addons\neo_sequencer\neo_sequencer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\addons\markdown\markdown.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\imgui-node-editor\crude_json.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\imgui-node-editor\imgui_canvas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\imgui-node-editor\imgui_node_editor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\imgui-node-editor\imgui_node_editor_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\neo_sequencer\imgui_neo_internal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\lib\neo_sequencer\imgui_neo_sequencer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CF88904D-38A4-3302-9075-A5610B870882}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\glassysundew\hashlink\libs\hlimgui\extension\build\CMakeFiles\3e134e302f3402f412541eefe0c37fb8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{727F6261-35A2-3A14-A04C-C981CF3F12D8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
